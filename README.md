@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @FasihDagia
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Python
+- I,m currently working on a POS system 
 - 📫 How to reach me fasihdagia2006@gamil.com
 
 <!---
